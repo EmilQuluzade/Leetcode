@@ -1,0 +1,14 @@
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\obj\Debug\net8.0\Leetcode#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\obj\Debug\net8.0\Leetcode#3.AssemblyInfoInputs.cache
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\obj\Debug\net8.0\Leetcode#3.AssemblyInfo.cs
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\obj\Debug\net8.0\Leetcode#3.csproj.CoreCompileInputs.cache
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\bin\Debug\net8.0\Leetcode#3.exe
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\bin\Debug\net8.0\Leetcode#3.deps.json
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\bin\Debug\net8.0\Leetcode#3.runtimeconfig.json
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\bin\Debug\net8.0\Leetcode#3.dll
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\bin\Debug\net8.0\Leetcode#3.pdb
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\obj\Debug\net8.0\Leetcode#3.dll
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\obj\Debug\net8.0\refint\Leetcode#3.dll
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\obj\Debug\net8.0\Leetcode#3.pdb
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\obj\Debug\net8.0\Leetcode#3.genruntimeconfig.cache
+C:\Users\emilq\source\repos\Leetcode#3\Leetcode#3\obj\Debug\net8.0\ref\Leetcode#3.dll
