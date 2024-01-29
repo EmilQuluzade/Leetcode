@@ -12,3 +12,4 @@ C:\Users\emilq\source\repos\Leetcode#1\Leetcode#1\obj\Debug\net8.0\refint\Leetco
 C:\Users\emilq\source\repos\Leetcode#1\Leetcode#1\obj\Debug\net8.0\Leetcode#1.pdb
 C:\Users\emilq\source\repos\Leetcode#1\Leetcode#1\obj\Debug\net8.0\Leetcode#1.genruntimeconfig.cache
 C:\Users\emilq\source\repos\Leetcode#1\Leetcode#1\obj\Debug\net8.0\ref\Leetcode#1.dll
+C:\Users\emilq\source\repos\Leetcode#1\Leetcode#1\obj\Debug\net8.0\Leetcode#1.sourcelink.json
